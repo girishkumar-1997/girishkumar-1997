@@ -1,5 +1,6 @@
 # Hi, I’m Girish Kumar
-## I'm a Student.
+## I'm a Student. Currently pursuing M.Tech in DIAT Pune.
+### My specialisation is VLSI and Embedded Systems.
 
 - 👀 I’m interested in Electronics. 
 - 🌱 I’m currently learning Verilog Programming.
