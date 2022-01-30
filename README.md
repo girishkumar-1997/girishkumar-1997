@@ -1,5 +1,5 @@
 # Hi, I’m Girish Kumar
-## I'm a Student. Currently pursuing M.Tech in DIAT Pune.
+## I'm a Post Graduate Student. Currently pursuing M.Tech in DIAT Pune.
 ### *My specialisation is VLSI and Embedded Systems.*
 
 - 👀 I’m interested in Electronics. 
